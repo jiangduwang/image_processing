@@ -1,0 +1,4 @@
+首先先下载数据集，数据集地址：链接：https://pan.xunlei.com/s/VNEUwD8rHnSnCEeO13zpEmIdA1# 提取码：4gvw
+把解压后的数据集放入task5文件夹中
+然后就可以执行ipynb文件
+去雾后的图像都保存在NYU文件夹中
